@@ -170,7 +170,7 @@ Returns: `Object`
 
 Prompter function which takes your [prompt objects](#-prompt-objects) and returns an object with responses.
 
-
+Use this prompts to better usage of ChatGPT
 #### prompts
 
 Type: `Array|Object`<br>
